@@ -1,0 +1,24 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Intro a HTML"
+    },
+    {
+      "id": 2,
+      "title": "Intro a JS"
+    },
+    {
+      "id": 3,
+      "title": "Intro a CSS"
+    },
+    {
+      "id": 4,
+      "title": "Intro a React"
+    },
+    {
+      "id": 5,
+      "title": "Intro a NodeJS y Express"
+    }
+  ]
+}
